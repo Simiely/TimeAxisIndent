@@ -99,4 +99,4 @@ TimeAxisIndent.jsx
 
 ## 四、文档基线
 
-- 2026-08-11(commit `__BASELINE__`):四件套重写完成
+- 2026-08-11(commit `8c831e1`):四件套重写完成
