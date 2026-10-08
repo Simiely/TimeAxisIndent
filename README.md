@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> ## 📦 本仓库已归档 —— 请到统一仓库下载
+> 本插件已并入 **[Simiely/ae-tools](https://github.com/Simiely/ae-tools)**（`panels/TimeAxisIndent/`），
+> 后续更新与问题修复都在 ae-tools 统一维护，**本仓库只读、不再更新**。
+>
+> 最新版源码：https://github.com/Simiely/ae-tools/tree/main/panels/TimeAxisIndent
+
+---
+
 # TimeAxisIndent · AE 时间轴错位显示工具
 
 一个极简的 After Effects 2026 脚本面板 —— 给时间轴图层名添加**前导缩进**,让图层在时间轴里**左侧错位显示**,一眼就能区分不同图层内容。
